@@ -1,0 +1,17 @@
+h1{
+	background-color: black;
+	font-family: Broadway, arial;
+	color: rgb(0,10,255);
+	font-variant: small-caps;
+	text-align: center;
+}
+
+p{
+	font-family: Calibri, arial;
+	line-height: 25%;
+}
+div{
+	line-height: 50px;
+	font-size: 150%;
+	
+}
